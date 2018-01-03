@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.iterator.NestedIteratorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-01-03T08:44:34" hostname="mac-160.leverton.local" time="0.007">
+  <properties/>
+  <testcase name="testIterationWithNonInteger" classname="de.iterator.NestedIteratorTest" time="0.004"/>
+  <testcase name="testIterationWithNulls" classname="de.iterator.NestedIteratorTest" time="0.0"/>
+  <testcase name="testNoSuchElementException" classname="de.iterator.NestedIteratorTest" time="0.001"/>
+  <testcase name="testIterationNestedWithEmpty" classname="de.iterator.NestedIteratorTest" time="0.0"/>
+  <testcase name="testIterationDoublyNested" classname="de.iterator.NestedIteratorTest" time="0.0"/>
+  <testcase name="testIterationSingleNested" classname="de.iterator.NestedIteratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
